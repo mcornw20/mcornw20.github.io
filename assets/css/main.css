@@ -3331,6 +3331,7 @@ input, select, textarea {
 /*New Additions from Matthew*/
 .jobTitle{
 text-align: center;
+margin-bottom: 10px;
 }
 
 .skills{
