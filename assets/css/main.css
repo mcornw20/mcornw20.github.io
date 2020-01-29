@@ -3327,3 +3327,8 @@ input, select, textarea {
 			}
 
 		}
+
+/*New Additions from Matthew*/
+.jobTitle{
+text-align: center;
+}
