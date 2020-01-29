@@ -3332,3 +3332,7 @@ input, select, textarea {
 .jobTitle{
 text-align: center;
 }
+
+.skills li{
+text-decoration: none;
+}
