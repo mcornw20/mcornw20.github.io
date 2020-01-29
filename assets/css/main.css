@@ -3336,3 +3336,7 @@ text-align: center;
 .skills{
 list-style-type:none;
 }
+
+.projectTitle{
+font-size: .9rem;
+}
