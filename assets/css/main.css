@@ -3333,6 +3333,6 @@ input, select, textarea {
 text-align: center;
 }
 
-.skills li{
-text-decoration: none;
+.skills{
+list-style-type:none;
 }
