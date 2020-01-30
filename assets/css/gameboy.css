@@ -1,0 +1,157 @@
+@keyframes gameboyBounce {
+  0%{
+    opacity: 1;
+     transform: scale(1);
+  }
+  3%{
+    opacity: 0;
+     transform: scale(1);
+  }
+   10%{
+    color: #ffffff;
+      opacity:0;
+      transform: scale(3) translateY(45px) translateX(-80px) rotate(-180deg);
+     transform-origin: -50px 100px;
+  }
+  
+  15%{
+    color: #E889C1;
+  }
+  
+   20%{
+     opacity: 1;
+    color: #FC465E;
+
+  }
+  
+   25%{
+    color: #FFE066;
+      transform: translateY(-20px) ;
+  }
+  26%
+  {
+   
+  }
+  27%{
+    transform: translateX(0px);
+  }
+   30%{
+    color: #71C377;
+        
+    
+  }
+  
+   35%{
+    color: #7ED6D6;
+     
+  }
+  
+   40%{
+    color: #715077;
+      transform: translateY(0px);
+  }
+  
+   45%{
+    color: #000000;
+     transform: scale(1) translateY(-20px);
+  }
+  47%{
+    transform: translateY(-15px);
+  }
+  49%{
+    transform: translateY(5px);
+  }
+  51%{
+    transform: translateY(-10px);
+  }
+  
+   53%{
+    transform: translateY(0px);
+  }
+  
+  60%{
+    color: black;
+  }
+  98%{
+    opacity:1;
+  }
+  
+   99%{
+    opacity:.2;
+  }
+  
+   100%{
+    opacity:1;
+  }
+}
+
+.gameboy:hover .gbAnimation1{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: 0s;
+}
+.gameboy:hover .gbAnimation2{
+   animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .04s;
+}
+.gameboy:hover .gbAnimation3{
+   animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .08s;
+}
+.gameboy:hover .gbAnimation4{
+   animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .12s;
+}
+.gameboy:hover .gbAnimation5{
+   animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .16s;
+}
+.gameboy:hover .gbAnimation6{
+   animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .2s;
+}
+.gameboy:hover .gbAnimation7{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .24s;
+}
+.gameboy:hover .gbAnimation8{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .28s;
+}
+.gameboy:hover .gbAnimation9{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .32s;
+}
+.gameboy:hover .gbAnimation10{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .36s;
+}
+
+.gameboy:hover .gbAnimation11{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .40s;
+}
+
+.gameboy:hover .gbAnimation12{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .44s;
+}
+
+.gameboy:hover .gbAnimation13{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .48s;
+}
+
+.gameboy:hover .gbAnimation14{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .52s;
+}
+
+.gameboy:hover .gbAnimation15{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .56s;
+}
+
+.gameboy:hover .gbAnimation16{
+  animation: gameboyBounce 2s ease-in-out 1;
+  animation-delay: .6s;
+}
