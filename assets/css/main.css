@@ -3360,3 +3360,51 @@ max-width: 400px;
 header{
 	text-align: center;
 }
+
+.tiles .style1 > .image:after {
+	background-image:url("/images/project1.jpg");
+}
+
+.tiles .style2 > .image:after {
+	background-image:url("/images/project2.jpg");
+}
+
+.tiles .style3 > .image:after {
+	background-image:url("/images/project3.jpg");
+}
+
+.tiles .style4 > .image:after {
+	background-image:url("/images/project4.jpg");
+}
+
+.tiles .style5 > .image:after {
+	background-image:url("/images/project5.jpg");
+}
+
+.tiles .style6 > .image:after {
+	background-image:url("/images/project6.jpg");
+}
+
+.tiles .style7 > .image:after {
+	background-image:url("/images/project7.jpg");
+}
+
+.tiles .style8 > .image:after {
+	background-image:url("/images/project8.jpg");
+}
+
+.tiles .style9 > .image:after {
+	background-image:url("/images/project9.jpg");
+}
+
+.tiles .style10 > .image:after {
+	background-image:url("/images/project10.jpg");
+}
+
+.tiles .style11 > .image:after {
+	background-image:url("/images/project11.jpg");
+}
+
+.tiles .style12 > .image:after {
+	background-image:url("/images/project12.jpg");
+}
